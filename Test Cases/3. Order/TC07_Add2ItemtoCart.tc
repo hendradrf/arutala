@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Add item to cart
+2. Click on continue shopping
+3. Proceed to checkout</description>
+   <name>TC07_Add2ItemtoCart</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fac24495-d284-426a-9a4b-6de5e2b9359b</testCaseGuid>
+</TestCaseEntity>

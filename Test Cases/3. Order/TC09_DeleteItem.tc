@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete item in the cart</description>
+   <name>TC09_DeleteItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0e3e51d2-7a8b-40c7-a619-72d1da21cf43</testCaseGuid>
+</TestCaseEntity>

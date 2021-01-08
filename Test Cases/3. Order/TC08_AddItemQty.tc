@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Add Item quantity in order summary</description>
+   <name>TC08_AddItemQty</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dd85d7cc-3769-4a5f-9f74-0226a8ff3136</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Set the Item Quantity
+2. Set the Product Size
+3. Set the Product Color</description>
+   <name>TC10_SetItem</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>40799764-016a-4578-9a29-ac8e9571eb63</testCaseGuid>
+</TestCaseEntity>

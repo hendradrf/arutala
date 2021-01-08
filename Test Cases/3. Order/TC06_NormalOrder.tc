@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>1. Add 1 Product to cart
+2. Proceed to checkput
+3. Order summary
+4. Set Adress 
+5. Choose a shipping
+6. Check the terms of service agreement
+7. Select payment method
+8. Confirm order</description>
+   <name>TC06_NormalOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>810c0c47-ed44-45bb-856d-46fc6a894a7f</testCaseGuid>
+</TestCaseEntity>

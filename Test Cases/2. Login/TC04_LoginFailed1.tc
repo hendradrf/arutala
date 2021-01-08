@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login with unregistered/invalid email, and correct password</description>
+   <name>TC04_LoginFailed1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaae7b2a-c5c5-4ab4-991d-940bedcebcfe</testCaseGuid>
+</TestCaseEntity>
