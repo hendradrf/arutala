@@ -1,4 +1,4 @@
-# arutala
+# AutomationPractice (web)
 This is my submission project for project testing
 
 Tes yang saya lakukan terhadap web  ​http://automationpractice.com adalah dengan menggunakan KATALON
