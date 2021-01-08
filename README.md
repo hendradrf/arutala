@@ -1,5 +1,5 @@
 # AutomationPractice (web)
-This is my submission project for project testing
+This is my submission for project testing
 
 Tes yang saya lakukan terhadap web  ​http://automationpractice.com adalah dengan menggunakan KATALON
 Untuk menjalankannya, cukup dengan membukanya dengan cara:
@@ -10,3 +10,5 @@ Untuk menjalankannya, cukup dengan membukanya dengan cara:
 
 Mohon maaf jika terdapat kesalahan atau beberapa testing yang tidak saya lakukan.
 Terima kasih and WISH ME LUCK :)
+
+Hendra Dea Arifin
